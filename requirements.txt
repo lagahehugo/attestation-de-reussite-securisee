@@ -1,0 +1,15 @@
+Flask==1.1.1
+pyotp==2.6.0
+mysql==0.0.3
+mysqlclient==2.0.3
+opencv-python==4.5.3.56
+numpy==1.19.4
+Pillow==7.0.0
+crypto==1.4.1
+mysql-connector-python~=8.0.15
+distlib==0.3.0
+qrcode==7.3.1
+django-qrcode==0.3
+pyzbar==0.1.8
+qrtools==0.0.2
+pycryptodome==3.11.0
